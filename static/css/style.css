@@ -1,0 +1,22 @@
+*{
+margin:0px;
+padding:0px;
+}
+body{
+    background-color: rgba(212, 212, 212, 0.178) !important;
+}
+.heading{
+    color: rgba(30, 143, 255, 0.644);
+}
+.hcontainer{
+    margin-top: 20px !important;
+    text-align: center;
+}
+.student{
+    text-align:center;
+    background-color: white !important;
+}
+.myform{
+    justify-content: center;
+    margin:20px;
+}
